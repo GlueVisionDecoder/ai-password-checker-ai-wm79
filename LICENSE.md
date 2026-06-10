@@ -1,4 +1,4 @@
-# 
+# 免费 AI Password Strength Checker 扩展。集成 AI安全 和 预测分析，性能最大化。
 
 
 
